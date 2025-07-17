@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: "VT323", monospace;
+    font-size: 25px;
+    background-color: black;
+    color: greenyellow;
+}
+
+body {
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+}
+
+header {
+    width: 100%;
+    text-align: center;
+}
+
+header h1{
+    margin: 10px 0px;
+}
+
+section {
+    width: 100%;
+
+}
+
+section h3{
+    padding: 5px;
+    text-align: center;
+}
+
+section p{
+    padding: 5px;
+}
+
+.form{
+    margin: 2em 0;
+}
+
+.lastResult{
+    color: rgb(53, 245, 5);
+    padding: 3px;
+}
+
+.resetButton {
+    width: 200px;
+    height: 60px;
+    background-color: black;
+    color: greenyellow;
+    box-shadow: 2px 2px 2px greenyellow;
+}
+
+
+
